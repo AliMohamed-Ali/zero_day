@@ -1,2 +1,2 @@
-**Strong** This is afirst project in Alx Se
+**This is afirst project in Alx Se**
 
